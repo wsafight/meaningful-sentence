@@ -16,3 +16,6 @@ Explain the essence of things in one sentence
 
 - It’s easy to learn, but hard to use well.
 
+## technology
+
+- Data is the key. If you choose the right data structure and organize it properly, then the algorithm can often be reflected naturally. Data structure is the core of programming, algorithm is not.

@@ -2,6 +2,9 @@
 
 Explain the essence of things in one sentence
 
+## life
+- It's a terrible thing to spend time on something you won't be proud of in the end. It wastes your short journey on earth.
+
 ## product
 
 - Users are willing to pay if the product really helps them solve the problem.

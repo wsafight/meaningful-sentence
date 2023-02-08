@@ -1,24 +1,31 @@
-# a-word
+# 一句话
 
-Explain the essence of things in one sentence
+Read this in other languages: [English](https://github.com/wsafight/a-word/blob/main/README.EN.md)
 
-## life
-- It's a terrible thing to spend time on something you won't be proud of in the end. It wastes your short journey on earth.
+用一句话解释事物的本质
 
-## product
+## 人生
 
-- Users are willing to pay if the product really helps them solve the problem.
+- 把时间用在你最终不会引以为豪的东西上面，是一件可怕的事情，浪费了你在地球上的短暂旅程。
 
-- The success or failure of the product has nothing to do with the amount of work you put in.
+## 产品
 
-## project
+- 如果产品真的能帮助用户解决问题，用户愿意付费。
+- 产品的成败与你投入的工作量无关。
 
-- Great projects only had a few people at first.
+## 项目
 
-## learn
+- 伟大的项目最初只有几个人。
 
-- It’s easy to learn, but hard to use well.
+## 学习
 
-## technology
+- 学起来容易，用好却难。
+- 在你成为领导者之前，成功的全部都是自我成长。当你当了领导者，成功的全部就变成帮助他人成长。
 
-- Data is the key. If you choose the right data structure and organize it properly, then the algorithm can often be reflected naturally. Data structure is the core of programming, algorithm is not.
+## 技术
+
+- 数据是关键。如果你选择了正确的数据结构并组织得当，那么算法往往就能自然体现出来。数据结构才是编程的核心，算法并不是。
+
+## 写作
+
+- 一个人的思想就像是一座冰山，自己能意识到的只是很小一部分，其它大部分都埋在脑海深处，只有通过思考和写作，才能把它们发掘出来。

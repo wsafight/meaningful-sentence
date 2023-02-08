@@ -1,4 +1,4 @@
-# a-word
+# meaningful sentence
 
 Explain the essence of things in one sentence
 

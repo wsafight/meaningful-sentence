@@ -1,4 +1,4 @@
-# 一句话
+# meaningful sentence
 
 Read this in other languages: [English](https://github.com/wsafight/a-word/blob/main/README.EN.md)
 

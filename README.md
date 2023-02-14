@@ -7,6 +7,7 @@ Read this in other languages: [English](https://github.com/wsafight/a-word/blob/
 ## 人生
 
 - 把时间用在你最终不会引以为豪的东西上面，是一件可怕的事情，浪费了你在地球上的短暂旅程。
+- 你永远都不会准备好的
 
 ## 产品
 
